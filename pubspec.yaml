@@ -16,8 +16,8 @@ dependencies:
   carousel_slider: ^4.0.0-nullsafety.0
   http:
   shared_preferences: ^2.0.0-nullsafety
-  chewie: ^0.12.2
-  video_player: ^1.0.1
+  chewie: ^1.2.2
+  video_player: ^2.1.10
 
 dev_dependencies:
   flutter_test:
